@@ -17,21 +17,18 @@ This project combines **OCR**, **LLM-based data structuring**, **face recognitio
 
 ---
 
+Upload two KYC documents (e.g., Aadhaar, PAN).
 
+Each upload may take 10–15 seconds as the app performs face recognition.
 
+Capture a selfie using the camera input.
 
-    Upload two KYC documents (e.g., Aadhaar, PAN).
+Click the "Compute Score:" button to:
 
-        Each upload may take 10–15 seconds as the app performs face recognition.
+Parse the documents
 
-    Capture a selfie using the camera input.
+Extract relevant information using a language model
 
-    Click the "Compute Score:" button to:
+Compare the selfie with document photos
 
-        Parse the documents
-
-        Extract relevant information using a language model
-
-        Compare the selfie with document photos
-
-        Compute and display the verification score
+Compute and display the verification score
