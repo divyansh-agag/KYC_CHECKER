@@ -1,0 +1,8 @@
+streamlit
+pillow
+opencv-python
+face-recognition
+numpy
+pandas
+thefuzz
+python-Levenshtein
