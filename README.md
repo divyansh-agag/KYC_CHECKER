@@ -6,7 +6,7 @@ This project combines **OCR**, **LLM-based data structuring**, **face recognitio
 
 ---
 
-#BEFORE RUNNING THE APPLICATION MAKE SURE TO GO TO parse.py andplace your HUGGING FACE TOKEN in place of "YOUR_HF_TOKEN" TO ACCESS THE OPEN-SOURCE MODEL....
+#BEFORE RUNNING THE APPLICATION MAKE SURE TO GO TO parse.py andplace your HUGGING FACE TOKEN IN PLACWE OF "YOUR_HF_TOKEN" TO ACCESS THE OPEN-SOURCE MODEL....
 
 ## Features
 
