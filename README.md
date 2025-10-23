@@ -32,7 +32,7 @@ Extract relevant information using a language model
 Compare the selfie with document photos
 
 Compute and display the verification score
-##File Structure
+***File Structure***
 
 ui.py – Main Streamlit application
 
