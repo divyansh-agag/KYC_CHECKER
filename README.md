@@ -32,3 +32,10 @@ Extract relevant information using a language model
 Compare the selfie with document photos
 
 Compute and display the verification score
+##File Structure
+
+ui.py – Main Streamlit application
+
+parse.py – Utility functions (e.g., parser()) used by ui.py
+
+saved_images/ – Directory where uploaded/captured images are saved
